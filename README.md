@@ -1,12 +1,13 @@
+# About me
 
-#     Gaming
+##     Gaming
 <p align="left">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </p>
 
-# 🌐 Social Media
+## 🌐 Social Media
 
 <p align="left">
   <a href="https://www.instagram.com/sergg__13">

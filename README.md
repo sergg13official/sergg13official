@@ -1,5 +1,10 @@
 
-
+#     Gaming
+<p align="left">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</p>
 # 🌐 Social Media
 
 <p align="left">
@@ -48,6 +53,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />
 </p>
 
 ## 🗄️ Databases
@@ -78,22 +84,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## ☁️ Cloud & Hosting
-
-<p align="left">
-  <!-- Add technologies you use -->
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-</p>
-
-## 🔐 Cybersecurity & Networking
-
-<p align="left">
-  <!-- Add technologies you use -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 ## 🖥️ Operating Systems
 
 <p align="left">
@@ -114,14 +104,12 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
-## 🎮 Game Development & Gaming
+## 🎮 Game Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
 </p>
 
 ## 🔧 Hardware & Electronics

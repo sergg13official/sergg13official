@@ -5,22 +5,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <b>@sergg__13</b>
+  <b> @sergg__13</b>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <b>@sergg__13</b>
+  <b> @sergg__13</b>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <b>@serggg</b>
+  <b> @serggg</b>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  //<b></b>
+  <b></b>
 </p>
 
 <p>

@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 </p>
 
-**Instagram / X / TikTok:** `@sergg__13`  
+**Instagram / X / TikTok / Reddit:** `@sergg__13`  
 **Discord:** `@serggg`
 
 ---

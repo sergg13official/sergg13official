@@ -50,12 +50,14 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-## 🖥️ IDEs & Editors
+## 🖥️ IDEs, Editors, CAD
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />
+  <img src="https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white" /> 
 </p>
 
 ## 🗄️ Databases
